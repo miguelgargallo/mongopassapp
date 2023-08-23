@@ -1,0 +1,6 @@
+venv
+.env
+*.png
+Release
+Release.zip
+launcher
